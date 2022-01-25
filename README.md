@@ -1,2 +1,2 @@
-# numpy-assignment
+# Numpy-assignment
 Numpy Assignment
